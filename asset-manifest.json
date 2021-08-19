@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nshanbhag20001412.github.io/csb-28oi0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nshanbhag20001412.github.io/csb-28oi0/static/js/main.a54d6022.chunk.js",
+    "main.js.map": "https://nshanbhag20001412.github.io/csb-28oi0/static/js/main.a54d6022.chunk.js.map",
+    "runtime-main.js": "https://nshanbhag20001412.github.io/csb-28oi0/static/js/runtime-main.877ea3b1.js",
+    "runtime-main.js.map": "https://nshanbhag20001412.github.io/csb-28oi0/static/js/runtime-main.877ea3b1.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://nshanbhag20001412.github.io/csb-28oi0/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://nshanbhag20001412.github.io/csb-28oi0/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://nshanbhag20001412.github.io/csb-28oi0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nshanbhag20001412.github.io/csb-28oi0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://nshanbhag20001412.github.io/csb-28oi0/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.877ea3b1.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a54d6022.chunk.js"
+  ]
+}
